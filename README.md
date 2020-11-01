@@ -1,9 +1,6 @@
 ## MyBlog
 
-
-
 功能：前端展示 + 后台管理，
-博客地址：http://www.zhuyiming.top/
 
 ### 技术组合：
 
